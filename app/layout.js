@@ -1,4 +1,3 @@
-"use client";
 import "./globals.css";
 
 import { Rajdhani } from "next/font/google";
